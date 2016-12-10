@@ -1,2 +1,2 @@
 # CppBlogs
-CppBlogs
+http://mariusbancila.ro/blog/
